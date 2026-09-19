@@ -1,0 +1,6 @@
+{
+  "name": "Fuga Urbana 2D",
+  "description": "Jogo 2D de fuga policial infinita com nível de procurado progressivo, destruição urbana e ajudantes contratáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
